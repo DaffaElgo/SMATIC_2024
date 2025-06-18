@@ -2,7 +2,7 @@
 **🏆 Juara 1 Olimpiade Statistika “Smart Statistics (SMATIC) UNJ 2024”**
 
 **Penulis**  
-Daffa Elgo Santosa & Tim  
+Team Estetic
 
 **Repo:** https://github.com/DaffaElgo/SMATIC_2024
 
